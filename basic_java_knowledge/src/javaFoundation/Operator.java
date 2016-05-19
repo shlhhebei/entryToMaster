@@ -1,7 +1,7 @@
 package javaFoundation;
 
 /**
- * ÔËËã·û
+ * è¿ç®—ç¬¦
  */
 public class Operator {
 }
